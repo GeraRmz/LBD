@@ -1,2 +1,3 @@
 # LBD
-Laboratorio de Base de Datos 2019
+Laboratorio de Base de Datos Enero Junio 2020
+Gerardo Aurelio Ramírez Martínez  1495183
